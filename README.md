@@ -68,3 +68,5 @@ Data Modeling (DAX)
 Data Cleaning & Transformation
 
 HR Dataset (CSV/Excel)
+<img width="919" height="518" alt="HR_analytics_dashboard" src="https://github.com/user-attachments/assets/4d2c3de5-d7ec-41fc-9299-af1454ff644c" />
+
